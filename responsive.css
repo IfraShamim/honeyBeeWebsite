@@ -1,0 +1,8 @@
+@media(max-width:912px){
+    #container1 header #navbar{
+        display: none;
+    }
+    #container1 header #rightbar {
+       margin-right: 0.2rem;
+    }
+}
